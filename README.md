@@ -19,7 +19,7 @@ The things you need to know before installing the software.
   - Poloniex futures.
   - Kraken
   - Coinbase
-  - Bybit
+  - Bybit 
   - Poloniex
   - Bittrex
   - Okx
