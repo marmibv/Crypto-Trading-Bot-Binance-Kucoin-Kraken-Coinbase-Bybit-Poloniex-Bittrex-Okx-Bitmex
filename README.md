@@ -15,7 +15,7 @@ The things you need to know before installing the software.
 * Now you can select Exchange, Trading Pairs and change settings.
 * Compatible excchnages:
   - Binance USD-M futures.
-  - Kucoin futures.
+  - Kucoin futures. 
   - Poloniex futures.
   - Kraken
   - Coinbase
