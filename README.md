@@ -14,7 +14,7 @@ The things you need to know before installing the software.
 * Wait 3 - 5 minutes because it will install dependencies for the bot (Time depends on internet connection).
 * Now you can select Exchange, Trading Pairs and change settings.
 * Compatible excchnages:
-  - Binance USD-M futures.
+  - Binance USD-M futures. 
   - Kucoin futures. 
   - Poloniex futures.
   - Kraken
