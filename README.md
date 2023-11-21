@@ -24,7 +24,7 @@ The things you need to know before installing the software.
   - Bittrex
   - Okx 
   - Bitmex
- 
+  
 <a name="installation"/>
 
 ![ScalpingDemo1](https://media.discordapp.net/attachments/876447732259225612/1124293045987315712/scalping0.png)
