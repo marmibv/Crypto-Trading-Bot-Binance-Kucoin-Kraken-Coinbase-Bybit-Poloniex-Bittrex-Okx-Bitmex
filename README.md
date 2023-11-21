@@ -22,7 +22,7 @@ The things you need to know before installing the software.
   - Bybit 
   - Poloniex
   - Bittrex
-  - Okx
+  - Okx 
   - Bitmex
  
 <a name="installation"/>
